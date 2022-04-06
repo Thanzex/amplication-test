@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "rxq85b3d",
+    "id": "cl164oold16108201s6f0r2br9t",
+    "url": "https://app.amplication.com/cl164oold16108201s6f0r2br9t",
+    "settings": {
+      "dbHost": "cluster.jetop.com",
+      "dbName": "secure-test",
+      "dbPassword": "test1234",
+      "dbPort": 30001,
+      "dbUser": "test",
+      "appId": "cl164oold16108201s6f0r2br9t",
+      "authProvider": "Jwt"
+    }
+  }
+}
